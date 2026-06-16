@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  background-color:darkcyan;
+}
+.cittyIn{
+  width: 1320px;
+  margin: auto;
+}
+.cittyIn h1{
+  font-size: 40px;
+  font-weight: bold;
+  padding: 50px 0px;
+  color: white;
+}
+.cittyIn form input{
+  width: 300px;
+  height: 40px;
+  padding-left: 3px;
+}
+.butt{
+  background-color: darkblue;
+  color: white;
+}
+.showOutput{
+  width: 400px;
+  margin: auto;
+  background-color: white;
+  margin-top: 40px;
+  padding: 25px;
+  position: relative;
+}
+.image{
+  position: absolute;
+  left: 40%;
+}
+.loadfalse{
+  display: none;
+}
+.showOutput h1{
+  font-weight: bold;
+  font-size: 30px;
+}
+.showOutput h2{
+  font-weight: bold;
+  font-size: 40px;
+}
